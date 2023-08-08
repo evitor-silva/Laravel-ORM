@@ -1,2 +1,2 @@
-## Laravel ORM
+## Laravel ORM </strong>
 ## Conceitos importantes do Framework
